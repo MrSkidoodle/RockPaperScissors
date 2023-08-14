@@ -1,0 +1,68 @@
+* {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    background-color: antiquewhite;
+}
+.maintextBox {
+    display: flex;
+    justify-content: center;
+}
+.maintextbeauty {
+    margin-top: -7px;
+    background-color:rgb(217, 159, 88);
+    border-radius: 7px;
+}
+.maintext {
+    font-size: 50px;
+    border-radius: 5px;
+    padding: 50px;
+    color: white;
+}
+.Score {
+    display: flex;
+    justify-content: space-around;
+}
+.scoreboxbox {
+    display: flex;
+}
+.ScoreBox {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    background-color: rgb(225, 211, 193);
+    padding: 15px;
+    border-radius: 10px;
+}
+.ScoreVariable {
+    padding-left: 15px;
+}
+.ScoreText {
+    font-size: 20px;
+}
+.Responses {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    Margin-right: 250px;
+    margin-left: 250px;
+    margin-top: 150px;
+}
+.Player {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(225, 211, 193);
+    border-radius: 15px;
+    padding: 20px;
+}
+.AI {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(225, 211, 193);
+    border-radius: 15px;
+    padding: 20px;
+}

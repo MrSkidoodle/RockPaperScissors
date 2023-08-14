@@ -1,0 +1,33 @@
+* {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    background-color: antiquewhite;
+}
+.maintextBox {
+    display: flex;
+    justify-content: center;
+}
+.maintextbeauty {
+    margin-top: -7px;
+    background-color:rgb(217, 159, 88);
+    border-radius: 7px;
+}
+.maintext {
+    font-size: 50px;
+    border-radius: 5px;
+    padding: 50px;
+    color: white;
+}
+.bigboxthing {
+    margin-top: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bigboxtext {
+    font-size: 90px;
+    animation:cubic-bezier(1, 0, 0, 1)
+}
